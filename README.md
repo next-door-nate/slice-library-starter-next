@@ -1,6 +1,6 @@
 # Slice Library Next.js Starter
 
-> Looking for the Vue.js counterpart? [Check out the Nuxt.js starter](https://github.com/prismicio-community/slice-library-starter-nuxt).
+> Looking for the Vue.js counterpart? [Check out the Nuxt.js starter](https://github.com/prismicio-community/slice-library-starter-nuxt#readme).
 
 A starter to create your slice library with [Next.js](https://nextjs.org) and [Slice Machine](https://slicemachine.dev) for [#SliceContest](https://prismic.io/blog/slice-contest). This document is here to help you through the whole process of creating your library but is not comprehensive to what you can do, unleash your creativity!
 
